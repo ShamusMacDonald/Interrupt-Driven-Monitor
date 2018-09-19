@@ -1,0 +1,3 @@
+Systick.obj: ../Systick.c
+Systick.obj: ..\Systick.h
+Systick.obj: ..\MessagePassing.h
